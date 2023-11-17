@@ -1,3 +1,6 @@
 [submodule "productdetails"]
 	path = productdetails
 	url = https://github.com/Mmamare/productdetails.git
+[submodule "userdetails"]
+	path = userdetails
+	url = https://github.com/Mmamare/userdetails.git
