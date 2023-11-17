@@ -7,3 +7,6 @@
 [submodule "service_registry"]
 	path = service_registry
 	url = https://github.com/Mmamare/service_registry.git
+[submodule "gateway_service"]
+	path = gateway_service
+	url = https://github.com/Mmamare/gateway_service.git
