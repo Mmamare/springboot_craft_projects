@@ -10,3 +10,6 @@
 [submodule "gateway_service"]
 	path = gateway_service
 	url = https://github.com/Mmamare/gateway_service.git
+[submodule "address_service"]
+	path = address_service
+	url = https://github.com/Mmamare/address_service.git
