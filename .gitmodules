@@ -4,3 +4,6 @@
 [submodule "userdetails"]
 	path = userdetails
 	url = https://github.com/Mmamare/userdetails.git
+[submodule "service_registry"]
+	path = service_registry
+	url = https://github.com/Mmamare/service_registry.git
