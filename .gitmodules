@@ -1,0 +1,3 @@
+[submodule "productdetails"]
+	path = productdetails
+	url = https://github.com/Mmamare/productdetails.git
